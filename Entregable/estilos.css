@@ -1,0 +1,47 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(255, 255, 255);
+
+    p {
+        font-size: 100%;
+    }
+
+}
+
+header {
+    max-width: 600px;
+    margin: auto;
+}
+p {
+    margin: 10px 0;
+}
+
+button {
+    background-color: rgb(191, 147, 219);
+}
+
+input {
+    background-color: rgb(247, 168, 230);
+}
+
+select {
+    background-color:rgb(247, 168, 230);
+}
+
+form {
+    border: black 2px solid;
+    margin: 0;
+    padding: 20px;
+    font-weight: bold;
+}
+
+input, select, button {
+    margin-top: 5px;
+    padding: 8px;;
+}
+
+button {
+    background-color: #ac66e6;
+    color: rgb(255, 255, 255);
+}
